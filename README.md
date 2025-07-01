@@ -1,3 +1,4 @@
+
 # MNIST Handwritten Digit Classification
 
 This project illustrates a basic neural network with TensorFlow and Keras to classify handwritten digits from the MNIST dataset. It trains a model to identify digits (0-9) from grayscale 28x28 pixel images.
